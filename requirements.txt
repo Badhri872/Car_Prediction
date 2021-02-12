@@ -6,6 +6,7 @@ certifi==2020.12.5
 chardet==3.0.4
 colorama==0.4.4
 decorator==4.4.2
+flask
 gast==0.3.3
 google-auth==1.22.1
 google-auth-oauthlib==0.4.1
@@ -18,6 +19,7 @@ idna==2.10
 importlib-metadata==2.0.0
 ipython==7.16.1
 ipython-genutils==0.2.0
+jsonify
 jedi==0.17.2
 Keras-Preprocessing==1.1.2
 Markdown==3.3.1
